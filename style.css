@@ -58,11 +58,11 @@ body {
 .start-row {
 	margin: auto;
 	width: 120px;
-	height: 43px;
+	height: 53px;
 	font-family: ‘Work Sans’;
 	background-color: #eb6536;
-	padding-top: 10px;
 	font-size: 18px;
+	padding-top: 5px;
 	text-align: center;
 	color: #010165;
 	margin-bottom: 21px;
